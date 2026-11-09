@@ -1,6 +1,6 @@
 # Stremio iOS 6 Cydia source
 
-Static APT repository for the Stremio 6 jailbreak app. The repository currently publishes version **1.2.3** for `iphoneos-arm` (iOS 6+, armv7).
+Static APT repository for the Stremio 6 jailbreak app. The repository currently publishes version **1.2.4** for `iphoneos-arm` (iOS 6+, armv7).
 
 ## Add to Cydia
 
@@ -18,4 +18,4 @@ The package installs Stremio6.app under `/Applications`, which is required for t
 
 Only the current highest package is listed in `Packages`; older package files can remain in `debs/` as archived downloads.
 
-Version 1.2.3 gives FFmpeg more time and data to discover audio tracks in remote MKV streams and logs the tracks it finds, addressing video-only playback during auto-next. It compiles with Xcode 5.1.1 and the iOS 7.1 SDK; this release has not been tested on the iPad.
+Version 1.2.4 loads full title metadata in the title detail view and displays available IMDb rating, runtime, genres, director, and cast alongside the synopsis. It compiles with Xcode 5.1.1 and the iOS 7.1 SDK; this release has not been tested on the iPad.
