@@ -1,6 +1,6 @@
 # Stremio iOS 6 Cydia source
 
-Static APT repository for the Stremio 6 jailbreak app. The repository currently publishes version **1.2.0** for `iphoneos-arm` (iOS 6+, armv7).
+Static APT repository for the Stremio 6 jailbreak app. The repository currently publishes version **1.2.1** for `iphoneos-arm` (iOS 6+, armv7).
 
 ## Add to Cydia
 
@@ -18,4 +18,4 @@ The package installs Stremio6.app under `/Applications`, which is required for t
 
 Only the current highest package is listed in `Packages`; older package files can remain in `debs/` as archived downloads.
 
-Version 1.2.0 adds add-on subtitle search, automatic next-episode stream selection, local watched/progress views, an upcoming-episodes calendar view, and iOS 6 launch images. It compiles with Xcode 5.1.1 and the iOS 7.1 SDK; this release has not yet been tested on the iPad.
+Version 1.2.1 improves banner reflection cropping, moves upcoming episodes to Saved and limits lookups to saved series, refreshes the playback audio session for auto-next, and removes gray button fills from More. It compiles with Xcode 5.1.1 and the iOS 7.1 SDK; this release has not been tested on the iPad.
