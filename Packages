@@ -1,13 +1,13 @@
 Package: com.stremio.ios6
 Name: Stremio 6
-Version: 1.0.30
+Version: 1.0.31
 Architecture: iphoneos-arm
 Description: Stremio 6 iOS app installed as a jailbreak system app
 Maintainer: Stremio iOS 6
 Section: Applications
 Priority: optional
-Filename: debs/Stremio6-v1.0.30.deb
-Size: 1076380
-MD5sum: a9b8d9b3aa865428f4e83320d4b9dda0
-SHA256: ab6a2f30273042d144a6fa8286cd83c1886b4ab06cb6f907860633ea7a91b813
+Filename: debs/Stremio6-v1.0.31.deb
+Size: 1076502
+MD5sum: f227fec8f6ed9b6df869390cfaea22c4
+SHA256: 461ff61ea99c9e0640f5834317785f4b0a782c7071a99a8e099dee2edc4753c3
 
