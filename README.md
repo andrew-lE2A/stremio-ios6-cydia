@@ -1,6 +1,6 @@
 # Stremio iOS 6 Cydia source
 
-Static APT repository for the Stremio 6 jailbreak app. The repository currently publishes version **1.0.23** for `iphoneos-arm` (iOS 6+, armv7).
+Static APT repository for the Stremio 6 jailbreak app. The repository currently publishes version **1.0.24** for `iphoneos-arm` (iOS 6+, armv7).
 
 ## Add to Cydia
 
